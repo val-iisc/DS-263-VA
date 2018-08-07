@@ -11,21 +11,32 @@ permalink: /syllabus/
 
       <div class="entry">
 
-<p>The Course is divided into 2 parts,
+<!-- <p>The Course is divided into 2 parts,
 </p>
 <h4>Part I : Introduction to CNNs
-</h4>
+</h4> -->
 <ol>
-<li>Introduction to Deep Learning and Computer Vision</li>
-<li>Feed Forward Neural Networks</li>
-<li>Introduction to CNNs</li>
-<li>Optimization for training Deep neural networks</li>
-<li>Deep Neural Networks</li>
-<li>Tricks for Improving the Learning</li>
+<li> Introduction - Image Processing / Computer Vision</li>
+<li> Spatial/ Frequency Domain Processing</li>
+<li> Background Modeling </li>
+<li> Local Features (Harris/SIFT/KB/STIP)</li>
+<li> Object Detection and Recognition (Eigen Faces, Sparse Representation) </li>
+<li> Face Detection and Recognition</li>
+<li> Segmentation (Unsupervised: Watershed, Levelset, Active Contour, GraphCut) </li>
+<li> Segmentation (Supervised: Agglomerative clustering, Segmentation as pixel classification - UNets, FCN) </li>
+<li> MS Theory </li>
+<li> MS Tracking</li>
+<li> Kalman, Particle Filter based tracking</li>
+<li> Multi-target/Multi-camera tracking </li>
+<li> Motion Estimation, Optical Flow</li>
+<li> Action Recognition </li>
+<li> Stereo and MonoDepth Estimation </li>
+<li> Decision Trees/Random Forest</li>
+
 </ol>
 
-<h4>Part II : Advanced Topics in Deep Learning
-</h4>
+<!-- <h4>Part II : Advanced Topics in Deep Learning
+</h4> 
 <ol>
 <li>Introduction to DL packages/ Important architectures</li>
 <li>Visualizing CNNs</li>
@@ -33,7 +44,7 @@ permalink: /syllabus/
 <li>Generative Modelling using Deep networks</li>
 <li>Deep Reinforcement Learning</li>
 <li>Invited Talks from Researchers in Industry.</li>
-</ol>
+</ol> -->
       </div>
     </article>
 </div>
