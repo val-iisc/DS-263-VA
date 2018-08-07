@@ -14,7 +14,7 @@ permalink: /resources/
 <p>There is no prescribed textbook for this course. However, We hope that the following book would be very useful guides along the course:
 </p>
 <ol>
-<li>Computer Vision: Algorithms and Applications, by Richard Szeliski. A free electronic copy is available online (<a href="http://szeliski.org/Book/">Link</a>)</li>
+<li>Computer Vision: Algorithms and Applications, by Richard Szeliski. A free electronic copy is available online (<a href="http://szeliski.org/Book/" target="_blank">Link</a>)</li>
 </ol>
 <p>Additional Resources would be released along with the Lectures.</p>
       </div>
