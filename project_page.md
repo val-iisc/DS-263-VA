@@ -18,13 +18,13 @@ permalink: /project_page/
       </p>
      <p> Projects can be broadly classified of two kinds:
      <ol>
-	<li> <div style='font-weight: bold;'>Application</div>: when Deep learning is used for image processing in other research fields. For example, medical tool segmentation in operation videos.
+	<li> <div style='font-weight: bold;'>Application</div>: when computer vision is used for image processing in other research fields. For example, medical tool segmentation in operation videos.
         </li>
-        <li> <div style='font-weight: bold;'>Improving Deep learning architectures</div>: when interesting new ideas are introduced to pre-existing models for improving their performance. For example, exploring benefits of higher dimensional convolution in a traditional classification setup.
+        <li> <div style='font-weight: bold;'>Improving computer vision techniques</div>: when interesting new ideas are introduced to pre-existing models for improving their performance.
       </li>
         </ol>
       </p>
-      <p> <h3> As the course is on using Deep Learning for Computer Vision, the project must visual data in form of pixels etc.</h3></p>
+      <!--<p> <h3> As the course is on using Deep Learning for Computer Vision, the project must visual data in form of pixels etc.</h3></p>-->
       <h2>Resources </h2>
 	<p> Some resources for selecting projects:<ul>
       <li><a href="https://github.com/kjw0612/awesome-deep-vision">Awesome Deep Vision</a></li>
@@ -70,10 +70,10 @@ We also provide a list of popular computer vision datasets:
 </p>
 <h2>Grading Policy</h2>
 <p> This information will be added soon. </p>
-<h2> Some Example Projects</h2>
+<!-- <h2> Some Example Projects</h2>
 <p> Projects at VAL, by the present PhD. students will be added to this google doc. <a href="https://docs.google.com/document/d/1kmjYVqfCSuZbUC35R9PjxqcDh4cBdgOqGBmUbv6IrKE/edit?usp=sharing">Link to Google Doc</a></p>
 <p> Projects in a similar course at Stanford has been listed <a href="http://cs231n.stanford.edu/2016/reports.html">here</a>. These can help guide you.
 </p>
 <h2>Acknowledgement</h2>
-<p> Material from <a href="http://cs231n.stanford.edu/">CS231n</a> has been used for preparing this page, as well as the basic course material.</p>
+<p> Material from <a href="http://cs231n.stanford.edu/">CS231n</a> has been used for preparing this page, as well as the basic course material.</p> -->
 
