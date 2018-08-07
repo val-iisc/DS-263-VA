@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: DS265-Deep Learning For Computer Vision
+name: DS263-Video Analytics
 
 # Short bio or description (displayed in the header)
 description: Department of Computational and Data Sciences, IISc, Bangalore, India
@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: val-iisc/DLCV
+  github: val-iisc/DS-263-VA
   instagram:
   linkedin:
   pinterest:
