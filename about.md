@@ -12,7 +12,10 @@ permalink: /about/
 
       <div class="entry">
 
-<p>In the recent years, Deep Learning has pushed to boundaries of research in many fields. This course focuses on the application of Deep Learning in the field of Computer Vision. The first half of the course formulates the basics of Deep Learning, which are built on top of various concepts from Image Processing and Machine Learning.  The second half highlights the various flavors of Deep Learning in Computer Vision, such as Generative Models, Recurrent Models, and Deep Reinforcement Learning Models.
+<p> The goal of machine vision is to develop methods that enable a machine to “understand” or analyze images and videos. This course 
+will address the research issues towards developing algorithms that can perform high-level visual recognition tasks on real-world images and videos. This course will review and discuss current approaches to high-level visual recognition problems, such as background modeling, object recognition and categorization, tracking, scene understanding, human motion understanding, etc. 
+This course is intended for graduate level students. </p>
+<!-- <p>In the recent years, Deep Learning has pushed to boundaries of research in many fields. This course focuses on the application of Deep Learning in the field of Computer Vision. The first half of the course formulates the basics of Deep Learning, which are built on top of various concepts from Image Processing and Machine Learning.  The second half highlights the various flavors of Deep Learning in Computer Vision, such as Generative Models, Recurrent Models, and Deep Reinforcement Learning Models.
 </p>
 <h3>Introduction</h3>
 <p>While Computers were invented for 'compute' , the desire to have machines which can 'think' has been an aspiration for researchers and philosophers from the dawn of humanity. Although our current machines crunch numbers at a super human level, they have traditionally been very poor at problems that humans solve intuitively, like walking, understanding spoken words, recognizing objects in an image etc. With the advent of Deep Learning, it seems machines might finally meet human-level performance(or even surpass them!), in such intuitive tasks.
@@ -36,7 +39,7 @@ permalink: /about/
 <h3>Summary
 </h3>
 <p>This course aims to provide strong foundation in Deep Learning for student-researchers who are deeply interested in Machine Learning/Artificial Intelligence. As this field has massive industrial impact, students would be trained not only for theoretical understanding, but also for practically implementing Deep learning based AI systems. Join the course for an exciting and 'Deep'(pun intended!) journey into Deep Learning!
-</p>
+</p> -->
       </div>
     </article>
 </div>
