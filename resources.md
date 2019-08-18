@@ -18,7 +18,7 @@ permalink: /resources/
 <li>Introductory techniques for 3-D Computer Vision, by Emanuele Trucco and Alessandro Verri </li>
 <li>Multiple View Geometry in Computer Vision (2nd edition) by Richard hartley and Andrew Zisserman </li>
 <li>Computer Vision: A Modern Approach by David Forsyth and Jean Ponce </li>
-<li>Digital Image Processing (Rafael Gonzalez and Richard Woods </li>    
+<li>Digital Image Processing (Rafael Gonzalez and Richard Woods) </li>    
 </ol>
 <p>Additional Resources would be released along with the Lectures.</p>
       </div>
